@@ -1,6 +1,6 @@
 # API-com-Django3-Django-Rest-Framework
 
-Api desenvolvida a partir do curso Django 3 Rest Framework da plataforma Alura:
+API desenvolvida a partir do curso Django 3 Rest Framework da plataforma Alura:
 
 https://cursos.alura.com.br/course/api-django-3-rest-framework
 
@@ -21,7 +21,7 @@ Para inicializar essa API, abra o terminal e digite os seguintes comandos:
 ---------------------------------------------------------------------------------------------------------------------
 
 
-Api developed from Django 3 Rest Framework from Alura's course:
+API developed from Django 3 Rest Framework from Alura's course:
 
 https://cursos.alura.com.br/course/api-django-3-rest-framework
 
